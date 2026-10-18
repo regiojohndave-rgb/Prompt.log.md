@@ -1,0 +1,68 @@
+## FarmTrack – Simple Farm Management System
+
+## Project Overview
+
+FarmTrack is a simple, responsive web-based farm management system designed for small-scale farmers in Marinduque, Philippines. It helps farmers organize their crop information, farming expenses, and harvest records in one convenient webpage.
+
+## Sector
+
+**Agriculture & Food Innovation**
+
+## Local Challenge
+
+Small-scale farmers in Marinduque often use notebooks to record planting schedules, farming expenses, and harvests. This can make their records difficult to organize and their farming activities harder to track.
+
+## Target Users
+
+Small-scale farmers in Marinduque, Philippines.
+
+## Proposed Solution
+
+FarmTrack provides a simple webpage that allows farmers to record and view important farming information using an easy-to-understand interface.
+
+## Key Features
+
+1. **Crop Management** – Add crop names and planting dates and view crop records.
+2. **Expense Tracking** – Record farming expenses, descriptions, and amounts in Philippine pesos (₱), with an automatically calculated total.
+3. **Harvest Records** – Record harvested crops, harvest dates, and quantities and view harvest history.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+No frontend frameworks, backend services, databases, or external APIs are required for this prototype.
+
+
+## Design
+
+FarmTrack uses a green-and-white agricultural theme, simple English labels, clear navigation, dashboard summary cards, and responsive layouts for computers and mobile devices.
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Make sure `index.html`, `style.css`, and `script.js` are in the correct locations.
+4. Open `index.html` in a web browser.
+5. Test the Crop Management, Expense Tracking, and Harvest Records features.
+
+## Prompt Engineering Activity
+
+This project explores the following prompting techniques:
+
+- Zero-Shot Prompting
+- Structured Prompting
+- Few-Shot Prompting
+- Role Assignment
+- Structured Analysis and Refinement
+
+
+## Project Limitations
+
+This is a frontend prototype. Unless additional storage functionality is implemented, records may not persist after the webpage is refreshed. The project does not use a backend or database.
+
+## Project Goal
+
+The goal of FarmTrack is to demonstrate how AI-assisted web development and prompt engineering can help create a simple digital solution for a local agricultural challenge.
+
